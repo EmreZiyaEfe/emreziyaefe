@@ -6,7 +6,7 @@ Full Stack Developer | Junior .Net Developer
 
 \---
 
-Hi there! 👋 I'm Emre Efe, a passionate and detail-oriented .NET developer with a strong foundation in backend web development. My journey started with a background in Electrical and Electronics Engineering, and over time, I transitioned into the world of software development, where I found my true passion.
+Hi there! 👋 I'm Emre, a passionate and detail-oriented .NET developer with a strong foundation in backend web development. My journey started with a background in Electrical and Electronics Engineering, and over time, I transitioned into the world of software development, where I found my true passion.
 
 With hands-on experience in building robust, scalable, and maintainable applications using C#, ASP.NET Core, and Entity Framework Core, I strive to write clean and efficient code following SOLID principles and best practices. I enjoy designing layered architectures, implementing Repository and Unit of Work patterns, and building RESTful APIs.
 
